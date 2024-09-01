@@ -85,7 +85,7 @@ For detailed API endpoints and usage, refer to the API Documentation.
 For any inquiries or feedback, feel free to reach out:
 
 Your Name: ThamizhArasan JS
-GitHub: https://github.com/ThamizhArasanJS200357
+GitHub: https://github.com/Sharmila200444
 
 ### Team Members
 Name: [Frontend] - https://github.com/Sharmila200444
