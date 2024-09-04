@@ -10,6 +10,7 @@
 - [Screenshots](#screenshots)
 - [API Documentation](#api-documentation)
 - [Contact](#contact)
+- [Team Members](#team-members)
 
 ## Project Overview
 
