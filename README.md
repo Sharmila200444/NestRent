@@ -9,7 +9,6 @@
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [API Documentation](#api-documentation)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Project Overview
